@@ -1,7 +1,7 @@
 ## Get details of a blog
 To get detailed content of a particular blog
 
-**URL**: `localhost:3000/blog/:blogId`
+**URL**: `localhost:3000/blog/details/:blogId`
 
 **Method**: `GET`
 
